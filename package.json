@@ -1,22 +1,22 @@
 {
-    "name": "grunt-process-spawn",
-    "description": "Grunt task for spawn process.",
-    "version": "0.0.1",
-    "keywords": [
-        "grunt", "command", "exec", "spawn"
-    ],
-    "author": "ngyuki",
-    "license": "MIT",
-    "homepage": "https://github.com/ngyuki/grunt-process-spawn",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/ngyuki/grunt-process-spawn.git"
-    },
-    "bugs": {
-        "url": "https://github.com/ngyuki/grunt-process-spawn/issues"
-    },
-    "main": "tasks/process-spawn",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    }
+  "name": "grunt-process-spawn",
+  "version": "0.0.1",
+  "description": "Grunt task for spawn process.",
+  "keywords": [
+    "grunt", "command", "exec", "spawn"
+  ],
+  "homepage": "https://github.com/ngyuki/grunt-process-spawn",
+  "bugs": {
+    "url": "https://github.com/ngyuki/grunt-process-spawn/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Toshiyuki Goto",
+    "email": "ngyuki.ts@gmail.com",
+    "url": "https://github.com/ngyuki/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ngyuki/grunt-process-spawn.git"
+  }
 }

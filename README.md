@@ -2,10 +2,10 @@
 
 ## Getting Started
 
-Install from npm.
+Install from GitHub.
 
 ```console
-$ npm install --save-dev grunt-process-spawn
+$ npm install --save-dev ngyuki/grunt-process-spawn
 ```
 
 May be enabled the plugin in Gruntfile.
