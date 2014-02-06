@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Grunt task for spawn process.",
   "keywords": [
-    "grunt", "command", "exec", "spawn"
+    "grunt", "gruntplugin", "command", "exec", "spawn"
   ],
   "homepage": "https://github.com/ngyuki/grunt-process-spawn",
   "bugs": {
